@@ -3,11 +3,15 @@
 This project involves designing an A/B test to optimize the order of payment methods on an e-commerce platform, with the goal of increasing total sales. By testing different payment method sequences, we aim to gain insights into how user behavior is influenced by the order in which payment options are presented, ultimately improving conversion rates and customer experience.
 
 ### Objective
-*Primary Goal:*  Maximize total sales by optimizing the order of payment methods.
-**Secondary Goals**: Reduce cart abandonment rates, increase average order value (AOV), and improve customer retention.
-Hypothesis
-Null Hypothesis (H0): Changing the payment method order has no significant impact on total sales.
-Alternative Hypothesis (H1): Changing the payment method order significantly affects total sales.
+**Primary Goal:** Maximize total sales by optimizing the order of payment methods.
+
+**Secondary Goals:** Reduce cart abandonment rates, increase average order value (AOV), and improve customer retention.
+
+### Hypothesis
+**Null Hypothesis (H0):** Changing the payment method order has no significant impact on total sales.
+
+**Alternative Hypothesis (H1):** Changing the payment method order significantly affects total sales.
+
 Methodology
 1. Identifying Variants
 Different payment methods are presented in varied orders for testing.
