@@ -1,4 +1,4 @@
-# A/B Test Design: Optimizing Payment Method Order for Increased Sales
+# Optimizing Payment Method Order for Increased Sales
 ### Overview
 This project involves designing an A/B test to optimize the order of payment methods on an e-commerce platform, with the goal of increasing total sales. By testing different payment method sequences, we aim to gain insights into how user behavior is influenced by the order in which payment options are presented, ultimately improving conversion rates and customer experience.
 
